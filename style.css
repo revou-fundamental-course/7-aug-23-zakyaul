@@ -5,8 +5,8 @@ body {
 }
 
 header {
-    background-color: #333;
-    color: #fff;
+    background-color: #e93cb5;
+    color: #f0ec26;
     text-align: center;
     padding: 1rem;
 }
@@ -19,11 +19,11 @@ main {
 }
 
 #calculator {
-    border: 2px solid #333;
+    border: 2px solid #ffffff;
     padding: 2rem;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    background-color: #f7f7f7;
+    background-color: #2cc1ee;
     width: 400px;
 }
 
